@@ -1,7 +1,8 @@
 NGMC_Project
 Digital Literacy Project
-Name: DPrateek Katheriya
+Name: Prateek Katheriya
 Reg No: 25MIM10188 Branch: Integrated Mtech AI
+
 
 Tasks Completed:
 Task 1: Infographic
